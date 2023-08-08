@@ -1,0 +1,458 @@
+{
+    "results": {
+        "quotes": {
+            "{bl}:202307181650*I*GIG*MXP*20231206*arbr*TP": {
+                "minPrice": {
+                    "amount": "2044",
+                    "unit": "PRICE_UNIT_WHOLE",
+                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                },
+                "isDirect": false,
+                "outboundLeg": {
+                    "originPlaceId": "95673347",
+                    "destinationPlaceId": "95565070",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 6,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "quoteCreationTimestamp": "1689699000",
+                    "marketingCarrierId": "-31781"
+                },
+                "inboundLeg": {
+                    "originPlaceId": "",
+                    "destinationPlaceId": "",
+                    "departureDateTime": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "quoteCreationTimestamp": "0",
+                    "marketingCarrierId": ""
+                }
+            },
+            "{bl}:202307181734*I*GIG*MXP*20231120*ctbr*TP": {
+                "minPrice": {
+                    "amount": "1763",
+                    "unit": "PRICE_UNIT_WHOLE",
+                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                },
+                "isDirect": false,
+                "outboundLeg": {
+                    "originPlaceId": "95673347",
+                    "destinationPlaceId": "95565070",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 20,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "quoteCreationTimestamp": "1689701640",
+                    "marketingCarrierId": "-31781"
+                },
+                "inboundLeg": {
+                    "originPlaceId": "",
+                    "destinationPlaceId": "",
+                    "departureDateTime": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "quoteCreationTimestamp": "0",
+                    "marketingCarrierId": ""
+                }
+            },
+            "{bl}:202307191911*I*GIG*MXP*20240409*avvi*AV": {
+                "minPrice": {
+                    "amount": "2215",
+                    "unit": "PRICE_UNIT_WHOLE",
+                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                },
+                "isDirect": false,
+                "outboundLeg": {
+                    "originPlaceId": "95673347",
+                    "destinationPlaceId": "95565070",
+                    "departureDateTime": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 9,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "quoteCreationTimestamp": "1689793860",
+                    "marketingCarrierId": "-32540"
+                },
+                "inboundLeg": {
+                    "originPlaceId": "",
+                    "destinationPlaceId": "",
+                    "departureDateTime": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "quoteCreationTimestamp": "0",
+                    "marketingCarrierId": ""
+                }
+            },
+            "{bl}:202307201623*I*GIG*MXP*20240318*skyp*TP": {
+                "minPrice": {
+                    "amount": "1747",
+                    "unit": "PRICE_UNIT_WHOLE",
+                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                },
+                "isDirect": false,
+                "outboundLeg": {
+                    "originPlaceId": "95673347",
+                    "destinationPlaceId": "95565070",
+                    "departureDateTime": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 18,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "quoteCreationTimestamp": "1689870180",
+                    "marketingCarrierId": "-31781"
+                },
+                "inboundLeg": {
+                    "originPlaceId": "",
+                    "destinationPlaceId": "",
+                    "departureDateTime": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "quoteCreationTimestamp": "0",
+                    "marketingCarrierId": ""
+                }
+            },
+            "{bl}:202307201721*I*GIG*MXP*20240221*ctbr*TP": {
+                "minPrice": {
+                    "amount": "2014",
+                    "unit": "PRICE_UNIT_WHOLE",
+                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                },
+                "isDirect": false,
+                "outboundLeg": {
+                    "originPlaceId": "95673347",
+                    "destinationPlaceId": "95565070",
+                    "departureDateTime": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 21,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "quoteCreationTimestamp": "1689873660",
+                    "marketingCarrierId": "-31781"
+                },
+                "inboundLeg": {
+                    "originPlaceId": "",
+                    "destinationPlaceId": "",
+                    "departureDateTime": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "quoteCreationTimestamp": "0",
+                    "marketingCarrierId": ""
+                }
+            },
+            "{bl}:202307202136*I*GIG*MXP*20231017*skyp*TP": {
+                "minPrice": {
+                    "amount": "1991",
+                    "unit": "PRICE_UNIT_WHOLE",
+                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                },
+                "isDirect": false,
+                "outboundLeg": {
+                    "originPlaceId": "95673347",
+                    "destinationPlaceId": "95565070",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 10,
+                        "day": 17,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "quoteCreationTimestamp": "1689888960",
+                    "marketingCarrierId": "-31781"
+                },
+                "inboundLeg": {
+                    "originPlaceId": "",
+                    "destinationPlaceId": "",
+                    "departureDateTime": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "quoteCreationTimestamp": "0",
+                    "marketingCarrierId": ""
+                }
+            },
+            "{bl}:202307210535*I*GIG*MXP*20240129*gtbr*TP": {
+                "minPrice": {
+                    "amount": "2001",
+                    "unit": "PRICE_UNIT_WHOLE",
+                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                },
+                "isDirect": false,
+                "outboundLeg": {
+                    "originPlaceId": "95673347",
+                    "destinationPlaceId": "95565070",
+                    "departureDateTime": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 29,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "quoteCreationTimestamp": "1689917700",
+                    "marketingCarrierId": "-31781"
+                },
+                "inboundLeg": {
+                    "originPlaceId": "",
+                    "destinationPlaceId": "",
+                    "departureDateTime": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "quoteCreationTimestamp": "0",
+                    "marketingCarrierId": ""
+                }
+            }
+        },
+        "carriers": {
+            "-31781": {
+                "name": "TAP",
+                "imageUrl": "https://logos.skyscnr.com/images/airlines/TP.png",
+                "iata": "TP",
+                "icao": "TAP",
+                "displayCode": "TP"
+            },
+            "-32540": {
+                "name": "Avianca",
+                "imageUrl": "https://logos.skyscnr.com/images/airlines/AV.png",
+                "iata": "AV",
+                "icao": "AVA",
+                "displayCode": "AV"
+            }
+        },
+        "places": {
+            "27541837": {
+                "entityId": "27541837",
+                "parentId": "29475405",
+                "name": "Rio de Janeiro",
+                "type": "PLACE_TYPE_CITY",
+                "iata": "RIO",
+                "coordinates": {
+                    "latitude": -22.923375234441323,
+                    "longitude": -43.45131589096201
+                }
+            },
+            "27544068": {
+                "entityId": "27544068",
+                "parentId": "29475393",
+                "name": "Milão",
+                "type": "PLACE_TYPE_CITY",
+                "iata": "MIL",
+                "coordinates": {
+                    "latitude": 45.46839439687235,
+                    "longitude": 9.17301660101179
+                }
+            },
+            "27563221": {
+                "entityId": "27563221",
+                "parentId": "",
+                "name": "Europa",
+                "type": "PLACE_TYPE_CONTINENT",
+                "iata": "",
+                "coordinates": {
+                    "latitude": 55.280210962380146,
+                    "longitude": 29.382113552883705
+                }
+            },
+            "29475393": {
+                "entityId": "29475393",
+                "parentId": "27563221",
+                "name": "Itália",
+                "type": "PLACE_TYPE_COUNTRY",
+                "iata": "",
+                "coordinates": {
+                    "latitude": 42.7294626566,
+                    "longitude": 12.097084159
+                }
+            },
+            "29475405": {
+                "entityId": "29475405",
+                "parentId": "205351568",
+                "name": "Brasil",
+                "type": "PLACE_TYPE_COUNTRY",
+                "iata": "",
+                "coordinates": {
+                    "latitude": -10.7556598919,
+                    "longitude": -53.056356166
+                }
+            },
+            "95565070": {
+                "entityId": "95565070",
+                "parentId": "27544068",
+                "name": "Milão - Malpensa",
+                "type": "PLACE_TYPE_AIRPORT",
+                "iata": "MXP",
+                "coordinates": {
+                    "latitude": 45.6297987,
+                    "longitude": 8.7243946
+                }
+            },
+            "95673347": {
+                "entityId": "95673347",
+                "parentId": "27541837",
+                "name": "Internacional do Rio de Janeiro/Galeão - Antonio C",
+                "type": "PLACE_TYPE_AIRPORT",
+                "iata": "GIG",
+                "coordinates": {
+                    "latitude": -22.808889,
+                    "longitude": -43.243611
+                }
+            },
+            "205351568": {
+                "entityId": "205351568",
+                "parentId": "",
+                "name": "América do Sul",
+                "type": "PLACE_TYPE_CONTINENT",
+                "iata": "",
+                "coordinates": {
+                    "latitude": -15.126347372188903,
+                    "longitude": -60.784267219684395
+                }
+            }
+        }
+    },
+    "groupingOptions": {
+        "byRoute": {
+            "quotesGroups": [
+                {
+                    "originPlaceId": "95673347",
+                    "destinationPlaceId": "95565070",
+                    "quoteIds": [
+                        "{bl}:202307201623*I*GIG*MXP*20240318*skyp*TP",
+                        "{bl}:202307181734*I*GIG*MXP*20231120*ctbr*TP",
+                        "{bl}:202307202136*I*GIG*MXP*20231017*skyp*TP",
+                        "{bl}:202307210535*I*GIG*MXP*20240129*gtbr*TP",
+                        "{bl}:202307201721*I*GIG*MXP*20240221*ctbr*TP",
+                        "{bl}:202307181650*I*GIG*MXP*20231206*arbr*TP",
+                        "{bl}:202307191911*I*GIG*MXP*20240409*avvi*AV"
+                    ]
+                }
+            ]
+        },
+        "byDate": {
+            "quotesInboundGroups": [],
+            "quotesOutboundGroups": [
+                {
+                    "monthYearDate": {
+                        "year": 2023,
+                        "month": 10,
+                        "day": 0
+                    },
+                    "quoteIds": [
+                        "{bl}:202307202136*I*GIG*MXP*20231017*skyp*TP"
+                    ]
+                },
+                {
+                    "monthYearDate": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 0
+                    },
+                    "quoteIds": [
+                        "{bl}:202307181734*I*GIG*MXP*20231120*ctbr*TP"
+                    ]
+                },
+                {
+                    "monthYearDate": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 0
+                    },
+                    "quoteIds": [
+                        "{bl}:202307181650*I*GIG*MXP*20231206*arbr*TP"
+                    ]
+                },
+                {
+                    "monthYearDate": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 0
+                    },
+                    "quoteIds": [
+                        "{bl}:202307210535*I*GIG*MXP*20240129*gtbr*TP"
+                    ]
+                },
+                {
+                    "monthYearDate": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 0
+                    },
+                    "quoteIds": [
+                        "{bl}:202307201721*I*GIG*MXP*20240221*ctbr*TP"
+                    ]
+                },
+                {
+                    "monthYearDate": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 0
+                    },
+                    "quoteIds": [
+                        "{bl}:202307201623*I*GIG*MXP*20240318*skyp*TP"
+                    ]
+                },
+                {
+                    "monthYearDate": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 0
+                    },
+                    "quoteIds": [
+                        "{bl}:202307191911*I*GIG*MXP*20240409*avvi*AV"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "query": {
+        "currency": "BRL",
+        "locale": "pt-BR",
+        "market": "BR",
+        "dateTimeGroupingType": "DATE_TIME_GROUPING_TYPE_BY_MONTH",
+        "queryLegs": [
+            {
+                "originPlace": {
+                    "queryPlace": {
+                        "entityId": "27541837"
+                    }
+                },
+                "destinationPlace": {
+                    "queryPlace": {
+                        "entityId": "95565070"
+                    }
+                },
+                "date_range": {
+                    "startDate": {
+                        "year": 2023,
+                        "month": 10
+                    },
+                    "endDate": {
+                        "year": 2024,
+                        "month": 4
+                    }
+                }
+            }
+        ]
+    }
+}
